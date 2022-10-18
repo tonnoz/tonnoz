@@ -3,8 +3,10 @@
 
 
 ## 👨🏻‍💻 &nbsp;About Me
-I am a passionate software engineer specialized in Backend / API development (Java/Kotlin/NodeJS) \
-with 9 years of experience living in Amsterdam. I can code frontend in React/Next. \
+Passionate full stack software engineer specialized in Backend / API development (Java17/Kotlin1.7/NodeJS) \
+and frontend web development (ReactJS/Next/Typescript) with 11 years of experience. \
+Everyday I strive to write S.O.L.I.D. code with modularity and testing in mind. \
+Open to work remotely / async or hybrid. No full onsite. \
 Whenever I am not coding [I build and fly fpv drones](https://youtube.com/c/tonnoz).
 
 
