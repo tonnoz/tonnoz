@@ -13,7 +13,7 @@ Whenever I am not coding [I build and fly fpv drones](https://youtube.com/c/tonn
 💬 &nbsp;Feel free to reach out to say hi!
 
 ## Side projects
-- [FpvBuddy 🚀](https://fpvbuddy.app) : Social & Spot Hunting platform for Fpv Drone pilots 
+- [FpvBuddy 🚀](https://fpvbuddy.app) : Pilot matching / Spot Hunting platform for Fpv Drone pilots 
 - [EmojiGo 😉](https://emojigo.app) : Emoji Keyboard Google Chrome Browser extension
 
 
