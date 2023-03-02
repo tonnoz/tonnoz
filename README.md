@@ -3,10 +3,11 @@
 
 
 ## 👨🏻‍💻 &nbsp;About Me
+I'm Tonino Catapano, born and raised in Italy, currently Amsterdam based. 
 Passionate full stack software engineer specialized in Backend / API development (Java17/Kotlin1.7/NodeJS) \
 and frontend web development (ReactJS/Next/Typescript) with 11 years of experience. \
-Everyday I strive to write S.O.L.I.D. code with modularity and testing in mind. \
-Open to work remotely / async or hybrid. No full onsite. \
+Everyday striving to write S.O.L.I.D. code with modularity and testing in mind. \
+Open to work remotely / async or hybrid(nl). No full onsite. \
 Whenever I am not coding [I build and fly fpv drones](https://youtube.com/c/tonnoz).
 
 
