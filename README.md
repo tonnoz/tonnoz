@@ -11,7 +11,7 @@ Open to work remotely / async or hybrid(nl). No full onsite. \
 Whenever I am not coding [I build and fly fpv drones](https://youtube.com/c/tonnoz).
 
 
-💬 &nbsp;Feel free to reach out to say hi!
+💬 &nbsp;Feel free to [reach out](https://twitter.com/tonnoz) to say hi!
 
 ## Side projects
 - [FpvBuddy 🚀](https://fpvbuddy.app) : Pilot matching / Spot Hunting platform for Fpv Drone pilots 
