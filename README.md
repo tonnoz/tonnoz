@@ -1,13 +1,9 @@
 ## Hi stranger <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
----
 
-
-## 👨🏻‍💻 &nbsp;About Me
-I'm Tonino Catapano, born and raised in Italy, currently Amsterdam based. 
-Passionate full stack software engineer specialized in Backend / API development (Java/Kotlin/NodeJS) \
-and frontend web development (ReactJS/Next/Typescript) with 11 years of experience. \
-Everyday striving to write S.O.L.I.D. code with modularity and testing in mind. \
-Open to work remotely / async or hybrid(nl). No full onsite. \
+I'm Tonino Catapano, born and raised in Italy, currently Amsterdam based. \
+Passionate full stack software engineer specialized in Backend / API development \
+and frontend web development with 11 years of experience. \
+I am open to work remotely / async or hybrid(nl). No full onsite. \
 Whenever I am not coding [I build and fly fpv drones](https://youtube.com/c/tonnoz).
 
 
@@ -40,10 +36,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.sv
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tonnoz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 </a>
 </p>
-
-## ⭐️ &nbsp;𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tonnoz)
 
 <!--
 **tonnoz/tonnoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
