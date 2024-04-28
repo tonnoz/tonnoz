@@ -27,7 +27,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.sv
 
 
 ## 💌 &nbsp;Get in touch
-- Email: [info@tonnoz.com](mailto:info@tonnoz.com)
+- Email: [hello@tonnoz.com](mailto:hello@tonnoz.com)
 - Twitter: [https://twitter.com/tonnoz](https://twitter.com/tonnoz)
 
 ## ⚙️ &nbsp;GitHub Analytics
