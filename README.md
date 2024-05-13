@@ -1,5 +1,7 @@
 ## Hi stranger <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 
+<img src="coding.gif" />
+
 I'm Tonino Catapano, born and raised in Italy, currently Amsterdam based. \
 Passionate full stack software engineer specialized in Backend / API development \
 and frontend web development with 11 years of experience. \
