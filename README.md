@@ -16,7 +16,7 @@ Whenever I am not coding [I build and fly fpv drones](https://youtube.com/c/tonn
 ## Side projects
 - [FpvBuddy 🚀](https://fpvbuddy.app) : Pilot matching / Spot Hunting platform for Fpv Drone pilots 
 - [EmojiGo 😉](https://emojigo.app) : Emoji Keyboard Google Chrome Browser extension
-- [Aurora Notebook 📘](https://auroranotebook.com): Fan-driven platform to share notes and📘 drawings dedicated to the singer AURORA.
+- [Aurora Notebook 📘](https://auroranotebook.com): Application to share notes, drawings and more, created for the [AURORA-Music](https://aurora-music.com/) community.
 
 
 
