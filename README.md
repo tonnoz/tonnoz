@@ -2,7 +2,7 @@
 
 <img src="coding.gif" />
 
- [Bento page](https://bento.me/tonnoz)
+ [Homepage](https://tonnoz.com)
 
 Hey there! My name is Tonino, born and raised in Italy, currently Amsterdam based. \
 Passionate full stack software engineer specialized in Backend / API development \
