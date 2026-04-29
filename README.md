@@ -16,7 +16,7 @@ Whenever I am not coding [I build and fly fpv drones](https://youtube.com/c/tonn
 ## Side projects
 - [SlapMac](https://slapmac.com) : Make your macbook moan when you slap it
 - [RouteSketcher 🚀](https://routesketcher.com) : GPS art made easy
-- [https://echo9.tonnoz.com](ECHO-9 game) : Keyboard + phone controlled web game
+- [ECHO-9 game](https://echo9.tonnoz.com]) : Keyboard + phone controlled web game
 - [FpvBuddy 🚀](https://fpvbuddy.app) : Pilot matching / Spot Hunting platform for Fpv Drone pilots 
 - [EmojiGo 😉](https://emojigo.app) : Emoji Keyboard Google Chrome Browser extension
 - [Aurora Notebook 📘](https://auroranotebook.com): Application to share notes, drawings and more, created for the [AURORA-Music](https://aurora-music.com/) community.
